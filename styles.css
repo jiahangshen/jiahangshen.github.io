@@ -71,17 +71,21 @@ h2 {
 main > section:first-child h2 { border-bottom: 0; padding-bottom: 0; }
 p { margin: 0 0 10px; }
 .interests { margin-top: 12px; color: var(--muted); }
+.previous-research,
 .research-focus { margin-top: 22px; }
+.previous-research h3,
 .research-focus h3 {
   margin: 18px 0 8px;
   color: var(--navy);
   font-size: 1.18rem;
 }
+.previous-research h4,
 .research-focus h4 {
   margin: 13px 0 3px;
   color: var(--navy);
   font-size: 1rem;
 }
+.previous-research p,
 .research-focus p { margin: 0 0 8px; }
 .section-note { margin: -4px 0 14px; color: var(--muted); font-size: .9rem; }
 
