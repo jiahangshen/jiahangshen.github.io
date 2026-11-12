@@ -71,6 +71,18 @@ h2 {
 main > section:first-child h2 { border-bottom: 0; padding-bottom: 0; }
 p { margin: 0 0 10px; }
 .interests { margin-top: 12px; color: var(--muted); }
+.research-focus { margin-top: 22px; }
+.research-focus h3 {
+  margin: 18px 0 8px;
+  color: var(--navy);
+  font-size: 1.18rem;
+}
+.research-focus h4 {
+  margin: 13px 0 3px;
+  color: var(--navy);
+  font-size: 1rem;
+}
+.research-focus p { margin: 0 0 8px; }
 .section-note { margin: -4px 0 14px; color: var(--muted); font-size: .9rem; }
 
 .news-list { list-style: none; margin: 0; padding: 0; }
